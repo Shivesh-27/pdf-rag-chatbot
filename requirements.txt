@@ -1,0 +1,15 @@
+streamlit==1.64.0
+
+langchain-community==0.4.2
+langchain-text-splitters
+langchain-huggingface==1.2.2
+langchain-chroma==1.1.0
+
+chromadb
+pypdf
+
+sentence-transformers==6.1.0
+transformers==5.17.0
+huggingface-hub==1.33.0
+
+python-dotenv

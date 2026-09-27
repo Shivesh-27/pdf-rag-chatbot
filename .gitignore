@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Chroma
+chroma_db/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
